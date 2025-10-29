@@ -24,10 +24,16 @@
 - Base Learn Perfect    : (1 - 10)
 - Base Learn Supreme    : (1 - 13)
 
-## Relevent Link
+## Base Sepolia Testnet
+
+- Chain ID              : 84532
+- RPC URL               : https://sepolia.base.org
+- Currency symbol       : ETH
+- Block Explorer URL    : https://base-sepolia.blockscout.com/
+
+## Relevant Link
 
 - Base Docs           : https://docs.base.org/learn/welcome/
 - Base Sepolia Faucet : https://docs.base.org/base-chain/tools/network-faucets
 - Remix IDE           : https://remix.ethereum.org/
 - Role claim(Guild)   : https://era.guild.xyz/base/base-programs
-- Block Explorer      : https://base-sepolia.blockscout.com/
