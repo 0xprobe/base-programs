@@ -1,6 +1,6 @@
 # solution for base-programs
 
-submission link for each exercise 
+## submission link for each exercise 
 
 1. https://docs.base.org/learn/deployment-to-testnet/deployment-to-testnet-exercise
 2. https://docs.base.org/learn/control-structures/control-structures-exercise
@@ -16,20 +16,18 @@ submission link for each exercise
 12. https://docs.base.org/learn/token-development/erc-20-token/erc-20-exercise
 13. https://docs.base.org/learn/token-development/erc-721-token/erc-721-exercise
 
+## Discord Role
 
-Discord Role
+- Base Learn Newcomer   : (1)
+- Base Learn Acolyte    : (1 - 4)
+- Base Learn Consul     : (1 - 7)
+- Base Learn Perfect    : (1 - 10)
+- Base Learn Supreme    : (1 - 13)
 
-Base Learn Newcomer   : (1)
-Base Learn Acolyte    : (1 - 4)
-Base Learn Consul     : (1 - 7)
-Base Learn Perfect    : (1 - 10)
-Base Learn Supreme    : (1 - 13)
+## Relevent Link
 
-
-Relevent Link
-
-Base docs   : https://docs.base.org/learn/welcome/
-Base Faucet : https://docs.base.org/base-chain/tools/network-faucets
-Remix IDE   : https://remix.ethereum.org/
-Role claim  : https://era.guild.xyz/base/base-programs
-explorer    : https://base-sepolia.blockscout.com/
+- Base Docs           : https://docs.base.org/learn/welcome/
+- Base Sepolia Faucet : https://docs.base.org/base-chain/tools/network-faucets
+- Remix IDE           : https://remix.ethereum.org/
+- Role claim(Guild)   : https://era.guild.xyz/base/base-programs
+- Block Explorer      : https://base-sepolia.blockscout.com/

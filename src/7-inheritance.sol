@@ -1,6 +1,25 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.2 <0.9.0;
 
+/*
+Deploy your Salesperson and EngineeringManager contracts.
+You don’t need to separately deploy the other contracts.
+Use the following values:
+​
+Salesperson
+Hourly rate is 20 dollars an hour
+Id number is 55555
+Manager Id number is 12345
+​
+Manager
+Annual salary is 200,000
+Id number is 54321
+Manager Id is 11111
+
+deploy InheritanceSubmission using the addresses of your Salesperson and EngineeringManager contracts.
+*/
+
+
 abstract contract Employee {
   uint public idNumber;
   uint public managerId;

@@ -3,6 +3,9 @@ pragma solidity >=0.8.2 <0.9.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 
+/*
+Deploy AddressBookFactory contract
+*/
 
 contract AddressBook is Ownable {
     

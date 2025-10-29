@@ -1,12 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.2 <0.9.0;
 
-/* deploy the contract with the following values:
- * shares - 1000
- * name - Pat
- * salary - 50000
- * idNumber - 112358132134
- */
+/*
+deploy the contract with the following values:
+shares - 1000
+name - Pat
+salary - 50000
+idNumber - 112358132134
+*/
 
 contract EmployeeStorage {
 
